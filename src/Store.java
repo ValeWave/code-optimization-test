@@ -1,12 +1,12 @@
 public class Store {
     public static void main(String[] args) {
-        int p1 = 15;
-        int p2 = 10;
-        int p3 = 5;
+        int productPrice1 = 15;
+        int productPrice2 = 10;
+        int productPrice3 = 5;
 
-        int total1 = p1 * 2;
-        int total2 = p2 * 3;
-        int total3 = p3 * 4;
+        int total1 = productPrice1 * 2;
+        int total2 = productPrice2 * 3;
+        int total3 = productPrice3 * 4;
 
         int totalSales = total1 + total2 + total3;
 
